@@ -1,0 +1,10 @@
+        </main>
+        <footer>
+            <p style="font-variant: small-caps; text-align: center; letter-spacing: 2px; color: lightblue;">Köszönjük, hogy a mi játékainkat választod!</p>
+            <p style="text-align: center;"><a href="aszf.html">Általános szerződési feltételek</a> | 
+            <a href="impresszum.html">Impresszum</a> | 
+            <a href="adatvedelem.html">Adatvédelmi irányelvek</a></p>
+            <p style="text-align: center; color: lightgrey;">Copyright &copy; 2021 Minden jog fenntartva.</p>
+        </footer>
+    </body>
+</html>

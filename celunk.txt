@@ -1,0 +1,12 @@
+            <article class="container outer">
+                <div style="width: auto;">
+                    <div class="card kartya col-sm-12 col-lg-8" style="margin-top: 50px; margin-bottom: 50px;">
+                        <h3 class="card-header" style="text-align: right;">Célunk</h3>
+                        <div class="card-body" style="text-align: justify;">A játékok iránti szenvedélyünk visz előre és ad lelkesedést a munkánk során. Szeretnénk égetni ezt a tüzet és folyamatosan növekedni. 
+                            Ez teszi egyedivé az általunk készített játékokat. Stúdióként egyetlen küldetésünk van: a legjobb videojátékok készítése a világon. 
+                            Lélegzetelállító, érett történeteket szeretnénk elmesélni a globális közönségnek, anélkül, hogy elveszítenénk a részletekre való figyelmet, ami azzá tett minket, akik ma vagyunk.
+                            <img class="card" src="https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/04/video-game-controller-0403201.jpg" alt="Videojáték" style="float: left; width: auto; margin-top: 10px;">
+                            </div>
+                    </div>
+                </div>
+            </article>

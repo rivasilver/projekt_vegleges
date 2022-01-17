@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="hu">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Games 4U</title>
+        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <nav class="container navbar navbar-expand-md navbar-light">
+            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <ul class="navbar-nav">
+                        <li class="navbar-brand" style="color: lightgray;">Games4U</li>
+                        <li class="nav-item"><a class="nav-link" href="index.html" style="color: lightgray;">Főoldal</a></li>
+                        <li class="nav-item"><a class="nav-link" href="tarsasjatek.html" style="color: lightpink;">Újdonság! Társasjáték</a></li>
+                        <li class="nav-item"><a class="nav-link" href="referenciaink.html" style="color: rgb(179, 0, 74);">Referenciáink</a></li>
+                        <li class="nav-item"><a class="nav-link" href="kapcsolat.html" style="color: lightgray;">Kapcsolat</a></li>
+                    </ul>
+            </div>
+        </nav>
+        <main>

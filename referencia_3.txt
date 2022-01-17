@@ -1,0 +1,11 @@
+        <article class="container">
+            <div style="width: auto;">
+                <div class="card kartya col-sm-12 col-lg-8" style="margin-top:50px; margin-bottom: 50px; overflow: auto;">
+                    <h3 class="card-header">4Story</h3>
+                    <div class="card-body" style="text-align: justify;">A 4Story egy nagyszabású, nyílt világú fantasy MMORPG, ahol számtalan kalandot és csatát élhetsz át.
+                        Ezt a játékunkat 2012-ben kezdtük el fejleszteni, de sajnos hirtelen bekövetkező problémák miatt csúszott a fejlesztés,
+                        így csak 2014-ben tudtuk kiadni 3 DLC-vel együtt. Egy kicsit más szemszögből próbáltuk megközelíteni a történetet és sikerült
+                        egy nagyszerű, középkori hangulatú, ám a fantasy világhoz hű maradt játékot készíteni.
+                        <img class="card" src="https://cdn.papayaplay.com/SF/1611/6887/8559/4S_main.jpg" alt="4Story" style="float: right; width: auto; margin-top: 10px;"></div></div>
+            </div>
+        </article>

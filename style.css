@@ -1,0 +1,41 @@
+@font-face{
+    src: url(earth-2073/Earth\ 2073.ttf);
+    font-family: earth;
+}
+
+body{
+    background-image: url(http://creativity103.com/collections/Lightwaves/multicolored_lights.jpg);
+    font-family: Earth;
+}
+
+h1{
+    text-align: left;
+    margin-left: 100px;
+    color: lightgray;
+}
+
+h2{
+    text-align: left;
+    margin-left: 100px;
+    color: lightgray;
+}
+
+.kartya{
+    background-color: darkgrey;
+    color: black;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+ul{
+    color: lightgray;
+}
+
+@media (min-width: 800px){
+    .outer{
+        margin-left: 35%;
+    }
+}

@@ -1,0 +1,20 @@
+        <article class="container outer">
+            <div style="width: auto;">
+                <div class="card kartya col-sm-12 col-lg-8" style="margin-top: 50px; margin-bottom: 50px;">
+                    <h3 class="card-header" style="text-align: right;">Mikor várható?</h3>
+                    <div class="card-body" style="text-align: justify;">Legújabb projektünkbe már bele is vágtunk. 2022 januárjában kezdtük a tervezést - ütemtervünk
+                        alapján az elkészült játék már akár június közepén a polcodat díszítheti. Ez nem lenne lehetséges a folyamatos támogatásod nélkül. Különböző
+                        szakembereink egymással összedolgozva adják a maximumot minden egyes nap, hogy a lehető legjobb élmény lehessen egy, a barátaiddal vagy
+                        családoddal töltött este. Ha elsőként szeretnél értesülni a társasjátékkal kapcsolatos hírekről, kövesd a közösségi oldalainkat vagy iratkozz
+                        fel hírlevelünkre!
+                        <div class="column" style="padding-top: 10px;">
+                        <label for="nev">Név</label>
+                        <input type="text" id="nev" name="nev" placeholder="Hogy hívnak?"><br>
+                        <label for="email">E-mail cím</label>
+                        <input type="text" id="email" name="email" placeholder="E-mail címed">
+                        <input type="submit" value="Feliratkozom a hírlevélre!" style="float: right;">
+                        <img class="card" src="https://c.pxhere.com/images/11/17/79d3dbd37f5e9456f1f533f995a3-1435857.jpg!d" srcset="https://c.pxhere.com/images/11/17/79d3dbd37f5e9456f1f533f995a3-1435857.jpg!d" alt="Csapatunk" style="float: left; width: auto; margin-top: 15px;">
+                        </div></div>
+                </div>
+            </div>
+        </article>

@@ -1,0 +1,11 @@
+        <article class="container">
+            <div style="width: auto;">
+                <div class="card kartya col-sm-12 col-lg-9" style="margin-top:50px; overflow: auto; margin-bottom: 50px;">
+                    <h3 class="card-header">Új: Társasjáték a Games4U-tól!</h3>
+                    <div class="card-body" style="text-align: justify;">A Games4U a videojáték-ipar teljes megreformálása után a társasjátékokat veszi célba.
+                    Bővülő csapatunk jobbnál jobb ötletekkel rukkolt elő, hogy mi lehetne a következő olyan dolog, amit az igazi játékosoknak tudnánk nyújtani.
+                    Mi lehetne jobb azonban annál, mint a gyökerekhez való visszatérés? Tudjuk, hogy rengeteg játékos nem csak a videojátékokat szereti, hanem
+                    a társasjátékok világában is otthon érzi magát. Ezért ezt az élményt azoknak szánjuk, akik szeretnek a kalandokba a hagyományos módon belevágni.
+                        <img class="card" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freeimageslive.co.uk%2Ffiles%2Fimages009%2Ffantasy_game_dice.jpg&f=1&nofb=1" alt="Dobókockák" style="float: right; width: auto; margin-top: 15px;"></div></div>
+            </div>
+        </article>

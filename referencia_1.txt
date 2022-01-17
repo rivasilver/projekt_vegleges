@@ -1,0 +1,14 @@
+    <h1>Eddigi munkáink</h1>
+    <main>
+        <article class="container">
+            <div style="width: auto;">
+                <div class="card kartya col-sm-12 col-lg-8" style="margin-top:50px; overflow: auto;">
+                    <h3 class="card-header">Neverwinter</h3>
+                    <div class="card-body" style="text-align: justify;">A Neverwinter egy ingyenesen játszható, masszív, többszereplős online szerepjáték, 
+                        amelyet 2011-ben fejlesztettünk ki és a Perfect World Entertainmentel való szerződéskötés után 
+                        2013-ban kiadásra került Microsoft Windows-ra, 2015-ben Xbox One-ra és 2016-ban PlayStation 4-re.
+                        Az elismert Dungeons & Dragons fantasy szerepjátékon alapul. 
+                        Epikus történetek, akcióharcok és klasszikus szerepjátékok várják azokat a hősöket, akik elég bátrak ahhoz, hogy belépjenek a Neverwinter fantasztikus világába!
+                        <img class="card" src="https://www.thegarysue.com/wp-content/uploads/2021/08/the-world-of-neverwinter-is-changing-with-jewel-of-the-north-coming-august-24-1536x864.jpg" alt="Neverwinter" style="float: right; width: auto; margin-top: 10px;"></div></div>
+            </div>
+        </article>

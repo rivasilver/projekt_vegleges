@@ -1,0 +1,13 @@
+        <article class="container outer">
+            <div style="width: auto;">
+                <div class="card kartya col-sm-12 col-lg-8" style="margin-top: 50px; margin-bottom: 50px;">
+                    <h3 class="card-header" style="text-align: right;">Blade & Soul</h3>
+                    <div class="card-body" style="text-align: justify;">Egy koreai stílusú fantasy harcművészeti, masszív, többszereplős online szerepjáték, amelyet 2015-ben fejlesztettünk ki. A Blade & Soul 2016. január 19-én jelent meg a nyugati területeken.
+                        Egy japán animációs televíziós adaptáción alapul, melyért mindannyian rajongtunk, hát elhatároztuk,
+                        hogy PC platformra kifejlesztjük a játékverziót. A sorozatot egyébként 2014. április 3-án sugározták a TBS és más állomások, 
+                        majd június 26-án befejezték.
+                        <img class="card" src="https://cdn.ncwest.com/blade-and-soul/12212021-B85B707A89BCB906/images/share.jpg" alt="Blade & Soul" style="float: left; width: auto; margin-top: 10px;">
+                        </div>
+                </div>
+            </div>
+        </article>

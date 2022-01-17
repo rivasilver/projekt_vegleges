@@ -1,0 +1,14 @@
+        <h1>Üdvözöl a Games 4U,</h1>
+        <h2>az iparág vezetője olyan videojátékok készítésében, amelyek kielégítik a világ minden tájáról érkező játékosok igényeit.</h2>
+            <article class="container">
+                <div style="width: auto;">
+                    <div class="card kartya col-sm-12 col-lg-8" style="margin-top:50px; overflow: auto;">
+                        <h3 class="card-header">Rólunk</h3>
+                        <div class="card-body" style="text-align: justify;">A 2021-ben alapított, Budapesten található Games 4U a videojátékok iránti szenvedélyből született. 
+                            A stúdió alapítói Vágó Rebeka és Zsid Andrea, napjaink videojáték forgalmazásának úttörői, úgy döntöttek, 
+                            hogy a játékiparban szerzett tapasztalataikat felhasználják a videojáték fejlesztésben. 
+                            A vállalkozás fő profilja a PC-s és konzol platformokra történő játék-szoftver fejlesztése, azon belül is MMORPG szintű játékok kidolgozása.
+                            A cég jelenleg 125 szakembert foglalkoztat és számos hosszú távú kapcsolatot ápol amerikai, európai és kínai kiadókkal, játékforgalmazókkal.
+                            <img class="card" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Budapest_Alkot%C3%A1s_Point_irodah%C3%A1z.jpg/800px-Budapest_Alkot%C3%A1s_Point_irodah%C3%A1z.jpg" alt="Budapesti iroda" style="float: right; width: auto; margin-top: 10px;"></div></div>
+                </div>
+            </article>
